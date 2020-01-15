@@ -1,6 +1,6 @@
-# Advanced & Practical MotionLayout
+# Production MotionLayout
 
-Talk given by Jason Pearson on November 26th, 2019
+Talk given by Jason Pearson on January 15th, 2020
 
 Speaker Deck - TO BE POSTED
 
