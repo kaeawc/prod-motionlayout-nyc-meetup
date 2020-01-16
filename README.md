@@ -2,7 +2,7 @@
 
 Talk given by Jason Pearson on January 15th, 2020
 
-Speaker Deck - TO BE POSTED
+[Speaker Deck](https://speakerdeck.com/kaeawc/production-motionlayout)
 
 ## Demos I created for this talk
 
